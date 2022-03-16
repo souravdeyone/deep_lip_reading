@@ -41,3 +41,14 @@ logs/
 *.png
 *.yml
 *.lprof
+
+models/lrs2_language_model/chars_vocab.pkl
+models/lrs2_language_model/checkpoint
+models/lrs2_language_model/config.pkl
+models/lrs2_language_model/model_28_0.94.ckpt-1593404.data-00000-of-00001
+models/lrs2_language_model/model_28_0.94.ckpt-1593404.index
+models/lrs2_language_model/model_28_0.94.ckpt-1593404.meta
+models/lrs2_lip_model/checkpoint
+models/lrs2_lip_model/model_epoch_12_gs_110004.data-00000-of-00001
+models/lrs2_lip_model/model_epoch_12_gs_110004.index
+models/lrs2_lip_model/model_epoch_12_gs_110004.meta
